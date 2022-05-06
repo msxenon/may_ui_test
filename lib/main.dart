@@ -1,6 +1,6 @@
 import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
-import 'package:may_ui_test/src/home_page.dart';
+import 'package:may_ui_test/src/pages/home_page/home_page.dart';
 import 'package:may_ui_test/src/utils/color_utls.dart';
 import 'package:may_ui_test/src/utils/constant_colors.dart';
 

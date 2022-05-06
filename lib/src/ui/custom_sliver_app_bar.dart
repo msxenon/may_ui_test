@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:may_ui_test/src/home_page.dart';
+import 'package:may_ui_test/src/pages/home_page/home_page.dart';
 import 'package:may_ui_test/src/ui/icons/search_icon.dart';
 import 'package:may_ui_test/src/utils/constant_colors.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:may_ui_test/src/data/mock_products_list.dart';
-import 'package:may_ui_test/src/home_page/home_page_header.dart';
+import 'package:may_ui_test/src/pages/home_page/home_page_header.dart';
 import 'package:may_ui_test/src/ui/bottom_bar/buttom_bar.dart';
 import 'package:may_ui_test/src/ui/custom_sliver_app_bar.dart';
 import 'package:may_ui_test/src/ui/product_tile.dart';
